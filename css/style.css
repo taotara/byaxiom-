@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Livvic:wght@400;500;600;700&family=Montserrat:wght@400;500;600;700;800;900&display=swap');
+
+:root{
+    --DeepBlue: #011F41;
+    --NavyBlue: #033357;
+    --SkyBlue: #6599FF;
+    --DeepGray: #101010;
+    --LightGray: #444444;
+    --LighterGray: #454545;
+}
+
+body{
+    font-family: 'Livvic', sans-serif;
+    
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+
+.top-nav {
+    background-color: var(--DeepBlue);
+}
